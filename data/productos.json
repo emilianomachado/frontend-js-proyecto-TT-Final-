@@ -1,0 +1,13 @@
+[
+	{ "id": "1", "nombre": "Crash Bandicoot", "img": "img/crash_bandicoot_cover.png", "precio": 2500 },
+	{ "id": "2", "nombre": "Metal Gear Solid", "img": "img/metal_gear_solid_cover.png", "precio": 3000 },
+	{ "id": "3", "nombre": "Resident Evil 2", "img": "img/resident_evil_2_cover.png", "precio": 3500 },
+	{ "id": "4", "nombre": "Mortal Kombat 3", "img": "img/mortal_kombat_3_cover.png", "precio": 4500 },
+	{ "id": "5", "nombre": "Spider-Man", "img": "img/spider_man_cover.png", "precio": 2500 },
+	{ "id": "6", "nombre": "Dino Crisis", "img": "img/dino_crisis_cover.png", "precio": 2000 },
+	{ "id": "7", "nombre": "Silent Hill", "img": "img/silent_hill_cover.png", "precio": 3000 },
+	{ "id": "8", "nombre": "Spyro", "img": "img/spyro_cover.png", "precio": 4500 },
+	{ "id": "9", "nombre": "Syphon Filter 3", "img": "img/syphon_filter_3_cover.png", "precio": 4000 },
+	{ "id": "10", "nombre": "Tomb Raider", "img": "img/tomb_raider_cover.png", "precio": 5000 },
+	{ "id": "11", "nombre": "Metal Slug X", "img": "img/metal_slug_x_cover.png", "precio": 2500 }
+]
