@@ -80,7 +80,8 @@ main {
 	text-align: center;
 }
 
-h2 {
+h2,
+.mensaje-carrito-vacio {
 	font-family: 'Press Start 2P', cursive;
 	font-size: 1.8rem;
 	color: #00ccff;
